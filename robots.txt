@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-kyugah.salamcuanwin.cfd/sitemap.xml
